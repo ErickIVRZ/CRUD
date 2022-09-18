@@ -1,0 +1,48 @@
+.input{
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
+  margin-bottom: 20px;
+  
+}
+.int-input{
+border-radius: 50px;
+text-align: center;
+}
+form{
+  height: auto;
+  background:rgb(1, 1, 1);
+  border-radius: 20px;
+  color: rgb(28, 210, 125);
+}
+.cls{
+  width: 200px;
+  height: 200px;
+  margin-left: 60px;
+  margin-bottom: 20px;
+  background: #646cff;
+  background-image: url('./icono-del-usuario-en-estilo-plano-de-moda-aislado-fondo-gris-símbolo-123663211.jpg');
+  background-size: cover;
+  border-radius: 50%;
+}
+
+.button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #397e0b;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin-left: 10px;
+  color: antiquewhite;
+}
+.button:hover {
+  border-color: #646cff;
+}
+.button:focus,
+.button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
