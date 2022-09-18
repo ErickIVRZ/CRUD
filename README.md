@@ -11,7 +11,7 @@
 npm install
 ```
 
-##Link Page
+##Link page
 https://crud-erickvrz.netlify.app/
 
 ## Author
